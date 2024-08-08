@@ -1,0 +1,1 @@
+insert into exchange_rate (id, name, value, date) values (0, 'USD', 0, '2024-01-01')
